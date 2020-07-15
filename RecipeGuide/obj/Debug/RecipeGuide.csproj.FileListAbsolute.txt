@@ -1,0 +1,10 @@
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\bin\Debug\RecipeGuide.exe.config
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\bin\Debug\RecipeGuide.exe
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\bin\Debug\RecipeGuide.pdb
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.csprojAssemblyReference.cache
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.Home.resources
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.Properties.Resources.resources
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.csproj.GenerateResource.cache
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.csproj.CoreCompileInputs.cache
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.exe
+C:\Users\fg221\Documents\RecipeGuide\RecipeGuide\RecipeGuide\obj\Debug\RecipeGuide.pdb
